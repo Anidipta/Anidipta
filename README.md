@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Python, Data Science, Machine Learning, Computer Vision, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anidipta]([https://github.com/Anidipta](https://github.com/Anidipta?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/Anidipta?tab=repositories]([https://github.com/Anidipta](https://github.com/Anidipta?tab=repositories))
 
 - 📫 How to reach me **anidiptapal@gmail.com**
 
