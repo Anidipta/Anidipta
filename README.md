@@ -12,8 +12,6 @@
 <a href="https://leetcode.com/Ninja_Ani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anidipta" height="30" width="40" /></a>
 </p>
 
-## Visitor's Count
-![Visitor Count](https://profile-counter.glitch.me/Anidipta/count.svg)
 
 ## GitHub Profile Stats
 
