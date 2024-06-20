@@ -12,8 +12,7 @@
 <a href="https://leetcode.com/Ninja_Ani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anidipta" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Skills:</h3>
-
+![Visitor Count](https://profile-counter.glitch.me/Anidipta/count.svg)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anidipta&show_icons=true&theme=dark&locale=en&layout=compact" alt="Anidipta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anidipta&show_icons=true&theme=dark&locale=en" alt="Anidipta" /></p>
