@@ -12,11 +12,21 @@
 <a href="https://leetcode.com/Ninja_Ani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anidipta" height="30" width="40" /></a>
 </p>
 
+## Visitor's Count
 ![Visitor Count](https://profile-counter.glitch.me/Anidipta/count.svg)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anidipta&show_icons=true&theme=dark&locale=en&layout=compact" alt="Anidipta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anidipta&show_icons=true&theme=dark&locale=en" alt="Anidipta" /></p>
+## GitHub Profile Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anidipta&theme=dark" alt="Anidipta"/></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anidipta&show_icons=true&theme=nightowl)
+
+## Top Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anidipta&layout=compact&theme=nightowl)](https://github.com/Anidipta/github-readme-stats)
+
+## GitHub Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anidipta&theme=nightowl)](https://git.io/streak-stats)
+
+## Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anidipta)
