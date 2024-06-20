@@ -27,6 +27,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anidipta&theme=nightowl)](https://git.io/streak-stats)
 
-## Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anidipta)
+## GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anidipta&theme=nightowl)
+
