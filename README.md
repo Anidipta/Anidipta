@@ -19,16 +19,22 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anidipta&show_icons=true&theme=nightowl)
 
-## Top Skills
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anidipta&layout=compact&theme=nightowl)](https://github.com/Anidipta/github-readme-stats)
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Anidipta&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anidipta&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+---
 
-## GitHub Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anidipta&theme=nightowl)](https://git.io/streak-stats)
 
 
 ## GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anidipta&theme=nightowl)
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anidipta&style=for-the-badge&color=orange" alt=""/>
+</div>
 
