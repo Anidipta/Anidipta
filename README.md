@@ -73,7 +73,7 @@
 
 <p align="center">
   
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Anidipta&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anidipta&show_icons=true&theme=dark&locale=en" alt="asengupta07" /></p>
   
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anidipta&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
 </p>
