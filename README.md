@@ -17,8 +17,21 @@
 ---
 
 ## 🌐 Socials:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&theme=radical)](https://www.linkedin.com/in/anidipta-pal)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2300B77E.svg?logo=kaggle&logoColor=white&style=for-the-badge&theme=radical)](https://www.kaggle.com/anidiptapal)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anidipta-pal">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&theme=radical" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/anidiptapal">
+    <img src="https://img.shields.io/badge/Kaggle-%2300B77E.svg?logo=kaggle&logoColor=white&style=for-the-badge&theme=radical" alt="Kaggle" />
+  </a>
+  <a href="https://devfolio.co/@Ani_X">
+    <img src="https://img.shields.io/badge/Devfolio-%230A0A0A.svg?logo=devfolio&logoColor=white&style=for-the-badge&theme=radical" alt="Devfolio" />
+  </a>
+  <a href="https://drive.google.com/file/d/1c0xHKP04OFZudFLoIwDvZHBmPbejAYOa/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-%230077B5.svg?logo=google-drive&logoColor=white&style=for-the-badge&theme=radical" alt="Resume" />
+  </a>
+</p>
 
 ---
 
