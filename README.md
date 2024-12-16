@@ -12,6 +12,8 @@
 <p align="center">
   📫 Reach me at: <b>anidiptapal@gmail.com</b>
 </p>
+
+
 ---
 
 ## 🌐 Socials:  
@@ -20,27 +22,32 @@
 
 ---
 
+
 ## 🛠️ Languages and Tools:  
 <p align="left">
   <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge&theme=radical" alt="C" /></a>
   <a href="https://www.w3schools.com/cpp/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white&style=for-the-badge&theme=radical" alt="C++" /></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge&theme=radical" alt="CSS3" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge&theme=radical" alt="Git" /></a>
-  <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge&theme=radical" alt="HTML5" /></a>
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge&theme=radical" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge&theme=radical" alt="JavaScript" /></a>
-  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?logo=opencv&logoColor=white&style=for-the-badge&theme=radical" alt="OpenCV" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=for-the-badge&theme=radical" alt="Python" /></a>
   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white&style=for-the-badge&theme=radical" alt="TensorFlow" /></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white&style=for-the-badge&theme=radical" alt="Flask" /></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white&style=for-the-badge&theme=radical" alt="PyTorch" /></a>
+  <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=keras&logoColor=white&style=for-the-badge&theme=radical" alt="Keras" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white&style=for-the-badge&theme=radical" alt="Pandas" /></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white&style=for-the-badge&theme=radical" alt="NumPy" /></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-%23FFDD44.svg?logo=python&logoColor=black&style=for-the-badge&theme=radical" alt="Matplotlib" /></a>
   <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-%236C9BD0.svg?logo=python&logoColor=white&style=for-the-badge&theme=radical" alt="Seaborn" /></a>
-  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white&style=for-the-badge&theme=radical" alt="Tableau" /></a>
-  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-%23F2C811.svg?logo=powerbi&logoColor=black&style=for-the-badge&theme=radical" alt="Power BI" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white&style=for-the-badge&theme=radical" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white&style=for-the-badge&theme=radical" alt="MySQL" /></a>
-  <a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker%20Studio-%233776AB.svg?logo=googleanalytics&logoColor=white&style=for-the-badge&theme=radical" alt="Looker Studio" /></a>
+  <a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white&style=for-the-badge&theme=radical" alt="Plotly" /></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?logo=scikit-learn&logoColor=black&style=for-the-badge&theme=radical" alt="Scikit-learn" /></a>
+  <a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/XGBoost-%23E74533.svg?logo=xgboost&logoColor=white&style=for-the-badge&theme=radical" alt="XGBoost" /></a>
+  <a href="https://catboost.ai/"><img src="https://img.shields.io/badge/CatBoost-%23000000.svg?logo=catboost&logoColor=white&style=for-the-badge&theme=radical" alt="CatBoost" /></a>
+  <a href="https://lightgbm.readthedocs.io/"><img src="https://img.shields.io/badge/LightGBM-%23DFE216.svg?logo=lightgbm&logoColor=black&style=for-the-badge&theme=radical" alt="LightGBM" /></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?logo=opencv&logoColor=white&style=for-the-badge&theme=radical" alt="OpenCV" /></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white&style=for-the-badge&theme=radical" alt="Streamlit" /></a>
+  <a href="https://folium.readthedocs.io/"><img src="https://img.shields.io/badge/Folium-%2348B0F1.svg?logo=python&logoColor=white&style=for-the-badge&theme=radical" alt="Folium" /></a>
+  <a href="https://geopandas.org/"><img src="https://img.shields.io/badge/GeoPandas-%234E90E5.svg?logo=python&logoColor=white&style=for-the-badge&theme=radical" alt="GeoPandas" /></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white&style=for-the-badge&theme=radical" alt="Flask" /></a>
+  <a href="https://dash.plotly.com/"><img src="https://img.shields.io/badge/Dash-%233F4F75.svg?logo=plotly&logoColor=white&style=for-the-badge&theme=radical" alt="Dash" /></a>
   <a href="https://soliditylang.org/"><img src="https://img.shields.io/badge/Solidity-%23000000.svg?logo=ethereum&logoColor=white&style=for-the-badge&theme=radical" alt="Solidity" /></a>
+  <a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker%20Studio-%233776AB.svg?logo=googleanalytics&logoColor=white&style=for-the-badge&theme=radical" alt="Looker Studio" /></a>
 </p>
 
 ---
