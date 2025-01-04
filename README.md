@@ -1,3 +1,6 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+
 <h1 align="center">👋 Hello, I'm Anidipta Pal</h1>
 <h3 align="center">A Passionate AI and ML Enthusiast</h3>
 
@@ -82,6 +85,14 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anidipta&theme=radical" alt="GitHub Trophies">
 </p>
+
+---
+
+<h3 align="left">Activity:</h3>
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anidipta&bg_color=aedcf9&color=192457&line=312fa2&point=7f5cff&area=true&hide_border=true)
+
+---
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Anidipta&style=for-the-badge&color=orange" alt=""/>
