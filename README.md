@@ -86,13 +86,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Anidipta&theme=radical" alt="GitHub Trophies">
 </p>
 
----
-
-<h3 align="left">Activity:</h3>
-
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anidipta&bg_color=aedcf9&color=192457&line=312fa2&point=7f5cff&area=true&hide_border=true)
-
----
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Anidipta&style=for-the-badge&color=orange" alt=""/>
