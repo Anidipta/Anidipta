@@ -1,38 +1,18 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
-<h1 align="center">👋 Hello, I'm Anidipta Pal</h1>
-<h3 align="center">A Passionate AI and ML Enthusiast</h3>
-
-<p align="center">
-  🌱 Currently diving into the world of <b>Python, Data Science, Machine Learning, Computer Vision, Deep Learning</b> 
-</p>
-
-<p align="center">
-  👨‍💻 Check out all my projects on 👉 <a href="https://github.com/Anidipta?tab=repositories"><b>My GitHub Repositories</b></a> 
-</p>
-
-<p align="center">
-  📫 Reach me at: <b>anidiptapal@gmail.com</b>
-</p>
-
-
----
+<h1 align="center">👋 Anidipta Pal</h1>
+<h3 align="center">CV Engineer with high Data Analysis</h3>
 
 ## 🌐 Socials:  
 
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/anidipta-pal">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&theme=radical" alt="LinkedIn" />
   </a>
-  <a href="https://www.kaggle.com/anidiptapal">
-    <img src="https://img.shields.io/badge/Kaggle-%2300B77E.svg?logo=kaggle&logoColor=white&style=for-the-badge&theme=radical" alt="Kaggle" />
-  </a>
-  <a href="https://devfolio.co/@Ani_X">
-    <img src="https://img.shields.io/badge/Devfolio-%230A0A0A.svg?logo=devfolio&logoColor=white&style=for-the-badge&theme=radical" alt="Devfolio" />
-  </a>
-  <a href="https://drive.google.com/file/d/1c0xHKP04OFZudFLoIwDvZHBmPbejAYOa/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-%230077B5.svg?logo=google-drive&logoColor=white&style=for-the-badge&theme=radical" alt="Resume" />
+
+  <a href="https://drive.google.com/file/d/1SYRfo-OS3mPErKnByR2j3bH6xluqJb9o/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-%230077B5.svg?logo=google-drive&logoColor=white&style=for-the-badge&theme=black" alt="Resume" />
   </a>
 </p>
 
