@@ -4,21 +4,6 @@
 <h1 align="center">👋 Anidipta Pal</h1>
 <h3 align="center">CV Engineer with high Data Analysis</h3>
 
-## 🌐 Socials:  
-
-<p >
-  <a href="https://www.linkedin.com/in/anidipta-pal">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&theme=radical" alt="LinkedIn" />
-  </a>
-
-  <a href="https://drive.google.com/file/d/1SYRfo-OS3mPErKnByR2j3bH6xluqJb9o/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-%230077B5.svg?logo=google-drive&logoColor=white&style=for-the-badge&theme=black" alt="Resume" />
-  </a>
-</p>
-
-
----
-
 
 ## 🛠️ Languages and Tools:  
 <p align="left">
