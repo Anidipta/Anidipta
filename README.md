@@ -2,7 +2,7 @@
 
 
 <h1 align="center">👋 Anidipta Pal</h1>
-<h3 align="center">CV Engineer with high Data Analysis</h3>
+<h3 align="center">CV Engineer wielding the power of advanced data analysis to decode patterns, fuel intelligence, and shape the future of machine vision.</h3>
 
 
 ## 🛠️ Languages and Tools:  
