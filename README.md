@@ -40,13 +40,15 @@
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Anidipta&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anidipta&show_icons=true&theme=dark&locale=en" alt="Anidipta's GitHub Stats" width="400" height="200"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anidipta&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Anidipta's Top Languages" width="400" height="200"/>
 </p>
 
 ---
+
+# Contribution Chart
+![](https://github-readme-activity-graph.vercel.app/graph?username=Anidipta&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
@@ -58,4 +60,3 @@
   <img src="https://komarev.com/ghpvc/?username=Anidipta&style=for-the-badge&color=blue&fontcolor=000000" alt=""/>
   
 </div>
-
