@@ -1,11 +1,28 @@
-<img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="800">
+</div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+Hello, Forks !;I'm+Anidipta+Pal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+Hello%2C+Forks+!;I'm+Anidipta+Pal" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">CV Engineer wielding the power of data analysis to decode patterns, fuel intelligence, and shape the future of machine vision.</h3>
 
+<div align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/anidipta-pal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/anidipta">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/daftpunktocat-guy.gif" width="300">
+</div>
 
 ## 🛠️ Languages and Tools:  
 <p align="left">
@@ -34,6 +51,10 @@
   <a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker%20Studio-%233776AB.svg?logo=googleanalytics&logoColor=white&style=for-the-badge&theme=radical" alt="Looker Studio" /></a>
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
@@ -55,8 +76,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Anidipta&theme=radical" alt="GitHub Trophies">
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462b35f26.gif" width="200">
+</div>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Anidipta&style=for-the-badge&color=blue&fontcolor=000000" alt=""/>
-  
 </div>
