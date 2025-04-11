@@ -9,7 +9,7 @@
 <h3 align="center">CV Engineer wielding the power of data analysis to decode patterns, fuel intelligence, and shape the future of machine vision.</h3>
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:anidiptapal@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/anidipta-pal">
@@ -18,10 +18,6 @@
   <a href="https://twitter.com/anidipta">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/daftpunktocat-guy.gif" width="300">
 </div>
 
 ## 🛠️ Languages and Tools:  
@@ -51,11 +47,6 @@
   <a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker%20Studio-%233776AB.svg?logo=googleanalytics&logoColor=white&style=for-the-badge&theme=radical" alt="Looker Studio" /></a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
----
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
@@ -66,8 +57,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anidipta&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Anidipta's Top Languages" width="400" height="200"/>
 </p>
 
----
-
 # Contribution Chart
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Anidipta&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
 
@@ -75,10 +64,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anidipta&theme=radical" alt="GitHub Trophies">
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462b35f26.gif" width="200">
-</div>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Anidipta&style=for-the-badge&color=blue&fontcolor=000000" alt=""/>
