@@ -6,10 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+Hello%2C+Forks+!;I'm+Anidipta+Pal" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">CV Engineer wielding the power of data analysis to decode patterns, fuel intelligence, and shape the future of machine vision.</h3>
+<h3>CV Engineer wielding the power of data analysis to decode patterns, fuel intelligence, and shape the future of machine vision.</h3>
 
-<div align="center">
-  <a href="mailto:anidiptapal@example.com">
+<a href="mailto:anidiptapal@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/anidipta-pal">
@@ -18,7 +17,6 @@
   <a href="https://twitter.com/anidipta">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-</div>
 
 ## 🛠️ Languages and Tools:  
 <p align="left">
@@ -50,10 +48,10 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Anidipta&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anidipta&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast" title="GitHub Stats" alt="GitHub Stats" height="450" width="800"/><br>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anidipta&show_icons=true&theme=dark&locale=en" alt="Anidipta's GitHub Stats" width="400" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anidipta&show_icons=true&theme=dark&locale=en" alt="Anidipta's GitHub Stats" width="500" height="200"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anidipta&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Anidipta's Top Languages" width="400" height="200"/>
 </p>
 
