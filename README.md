@@ -6,11 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+Hello%2C+Forks+!;I'm+Anidipta+Pal" alt="Typing SVG" />
 </h1>
 
-- 👨‍💻 I'm a CV guy passionate about data analysis to uncover patterns and build intelligent systems.  
-- 🔍 I work on shaping the future of machine vision through smart, data-driven solutions.
+- I'm a CV guy passionate about data analysis to uncover patterns and build intelligent systems.
 - Currently working upon: Secret
-- 📧 Reach me at: [anidiptapal@example.com](mailto:anidiptapal@example.com)  
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/anidipta-pal) or follow me on [Twitter](https://twitter.com/anidipta)
+- Reach me at: [anidiptapal@example.com](mailto:anidiptapal@example.com)  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/anidipta-pal) or follow me on [Twitter](https://twitter.com/anidipta)
 
 ---
 
@@ -94,11 +93,11 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anidipta&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast" title="GitHub Stats" alt="GitHub Stats" height="250" width="600"/><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anidipta&&theme=highcontrast" alt="Anidipta"  width="60%"/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anidipta&show_icons=true&theme=dark&locale=en" alt="Anidipta's GitHub Stats" width="500" height="200"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anidipta&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Anidipta's Top Languages" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anidipta&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast" title="GitHub Stats" alt="GitHub Stats"width="35%"/><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anidipta&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Anidipta's Top Languages" width="40%"/>
 </p>
 
 # Contribution Chart
