@@ -83,7 +83,7 @@
 ## 📈 GitHub Activity
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anidipta&" alt="Ani03" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anidipta&theme=tokyonight" alt="Ani03" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Anidipta&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=false" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anidipta&layout=compact&theme=tokyonight&hide_border=false" width="45%"/>
