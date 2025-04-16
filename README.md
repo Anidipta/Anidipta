@@ -101,7 +101,7 @@
 
 ## 🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anidipta&theme=tokyo-night" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anidipta&theme=tokyonight&no-bg=true" alt="GitHub Trophies">
 </p>
 
 <div id="header" align="center">
