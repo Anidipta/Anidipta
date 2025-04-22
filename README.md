@@ -8,7 +8,7 @@
 
 - 🔭 Currently working on: <b>Top Secret 😜</b>  
 - 📫 Reach me at: <a href="mailto:anidiptapal@example.com">anidiptapal@example.com</a>  
-- 🌐 Wanna know more about me : [Portfolio](https://portfolio-anidipta.vercel.app)  
+- 🌐 Wanna know more about me : [Portfolio](https://portfolio-two-smoky-41.vercel.app/) 
 
 <div align="center" width="100%" ml>
 
