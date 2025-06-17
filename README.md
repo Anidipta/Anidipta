@@ -91,14 +91,6 @@
 
 ---
 
-## 📊 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anidipta&theme=tokyo-night&hide_border=false" width="90%"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anidipta&theme=dark_lover&no-bg=true" alt="GitHub Trophies">
