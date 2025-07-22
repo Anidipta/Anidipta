@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif" width="95%">
+  <img src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif" width="85%">
 </div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=50&lines=Hi+There!+%F0%9F%91%8B;I'm+Anidipta+Pal;Welcome+to+my+Digital+Space!" alt="Typing SVG" />
 </h1>
 
-- 🔭 Latestt working on: <b>Res GeoAI</b>  
+- 🔭 Latest working on: <b>Res GeoAI</b>  
 - 📫 Reach me at: <a href="mailto:anidiptapal@example.com">anidiptapal@example.com</a>  
-- 🌐 Wanna know more about me: Portfolio Updating
+- 🌐 Wanna know more about me: **Portfolio Updating**
 
 <div align="center" width="100%" ml>
 
