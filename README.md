@@ -8,7 +8,8 @@
 
 - 🔭 Latest working on: <b>Res GeoAI</b>  
 - 📫 Reach me at: <a href="mailto:anidiptapal@example.com">anidiptapal@example.com</a>  
-- 🌐 Wanna know more about me: **Portfolio Updating**
+- 🌐 Wanna know more about me: [**Link**](https://ani-bice.vercel.app/)
+-  All of my research papers: [**Link**](https://scholar.google.com/citations?user=bDVmbFoAAAAJ&hl=en&oi=ao)
 
 <div align="center" width="100%" ml>
 
