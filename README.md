@@ -72,6 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anidipta&layout=compact&theme=tokyonight&hide_border=false" width="45%"/>
 </div>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anidipta&theme=github_dark)
 ---
 
 ## 🏆 GitHub Trophies</h3>
