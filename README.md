@@ -24,7 +24,6 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge)](https://ani-bice.vercel.app/)
 [![Google Scholar](https://img.shields.io/badge/📚_Google_Scholar-Research_Papers-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=bDVmbFoAAAAJ&hl=en&oi=ao)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Anidipta%20Pal-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/anidiptapal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/anidipta-pal)
