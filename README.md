@@ -93,13 +93,22 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anidipta&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anidipta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anidipta&theme=nightowl" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anidipta&theme=nightowl" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anidipta&theme=nightowl" width="32%" />
 </div>
 
+
+<div style="display: centre;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anidipta&theme=dracula"/>
+</div>
+
+---
+
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anidipta&theme=tokyonight" width="100%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random quote" />
 </div>
 
 ---
