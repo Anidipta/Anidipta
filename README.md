@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif" width="65%">
-</div>
+</div> -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=50&lines=Hi+There!+%F0%9F%91%8B;I'm+Anidipta+Pal;Welcome+to+my+Digital+Space!" alt="Typing SVG" />
@@ -67,7 +67,6 @@
 ### 📊 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-579ACA?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)
 ![Dash](https://img.shields.io/badge/-Dash-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
@@ -80,7 +79,6 @@
 ### 🌍 Geospatial & Remote Sensing
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?logo=qgis&logoColor=white&style=for-the-badge)
 ![GeoPandas](https://img.shields.io/badge/-GeoPandas-4E90E5?style=for-the-badge)
-![OpenStreetMap](https://img.shields.io/badge/-OpenStreetMap-7B7B7B?style=for-the-badge)
 ![Folium](https://img.shields.io/badge/-Folium-48B0F1?style=for-the-badge)
 ![Rasterio](https://img.shields.io/badge/-Rasterio-1E90FF?style=for-the-badge)
 
@@ -104,11 +102,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anidipta&theme=dracula"/>
 </div>
 
----
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random quote" />
-</div>
+</div> -->
 
 ---
 
