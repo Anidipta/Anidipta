@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <em>Researcher • Developer • Geospatial AI Enthusiast</em>
+  <em>Researcher • Full-Stack Developer • ML/CV Engineer • Geospatial AI Enthusiast</em>
 </p>
 
 ---
