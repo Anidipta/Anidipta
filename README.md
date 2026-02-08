@@ -107,6 +107,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random quote" />
 </div> -->
 
+<p align="left"><img src="https://github-trophies.vercel.app/?username=Anidipta&theme=radical" alt="Ani" /></p>
+
+
 ---
 
 <div align="center">
