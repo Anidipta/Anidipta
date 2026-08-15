@@ -43,8 +43,7 @@ Currently, I serve as an **AI Research Fellow at PRISM AI Safety** and a **Resea
 | Organization / Institution | Role | Key Focus & Achievements |
 | :--- | :--- | :--- |
 | **PRISM AI Safety** (California) | AI Research Fellow | Formal world models, LLM safety alignment, stochastic game hierarchies |
-| **IIT Mandi** (NLIP / Vision Lab) | Research Intern | Lab-to-field generalization benchmark framework, deduplication-aware splitting |
-| **DataCurve AI** (California) | ML Engineer (Freelance) | Code-generation telemetry, high-fidelity ground truth dataset curation |
+| **IIT Mandi** (SCeNe Lab) | Research Intern | Lab-to-field generalization benchmark framework, deduplication-aware splitting |
 | **HEVA AI Research Labs** | AI Research Intern | Recurrent spatial memory architectures, spectral SSMs for frequency-domain vision |
 | **Omdena** (Remote) | Machine Learning Engineer | Agentic Mental Health Chatbots (LangChain), 3D segmentation (+11.25% mIoU boost) |
 
