@@ -16,7 +16,7 @@
 
 ## 🎓 About Me
 
-I'm an AI & ML researcher and undergraduate student in Computer Science & Engineering (AI & ML) at [Heritage Institute of Technology, Kolkata](https://www.heritageit.edu/) (CGPA: 9.1/10.0). My work spans **Geospatial AI**, **Computer Vision**, **AI Safety & Alignment**, and **ML Systems**.
+I'm an AI & ML researcher and undergraduate student in Computer Science & Engineering (AI & ML) at [Heritage Institute of Technology, Kolkata](https://www.heritageit.edu/) (CGPA: 9.1/10.0). My work spans **Geospatial AI**, **Computer Vision**, **AI Safety & Alignment**, and **SSMs**.
 
 Currently, I serve as an **AI Research Fellow at PRISM AI Safety** and a **Research Intern at IIT Mandi**, focusing on formal world models for safe AI agents and mitigating the lab-to-field generalization gap in computer vision.
 
@@ -26,14 +26,13 @@ Currently, I serve as an **AI Research Fellow at PRISM AI Safety** and a **Resea
 
 - **Formal World Models & AI Safety**: Designing safe-by-design AI agents using LLM prompt engineering, stochastic game hierarchies, and empowerment-based safety evaluations.
 - **Geospatial AI & Remote Sensing**: Building dual-modality (satellite-to-drone) architectures, zero-shot void detection in UAV imagery, and river/oceanic plastic debris tracking.
-- **Lab-to-Field Model Generalization**: Benchmark frameworks to bridge distribution shifts in visual recognition across unified label spaces.
 
 ---
 
 ## 📄 Recent Publications
 
-- 1 x MIGARS 2026
-- 1 x CVIP 2025
+- 2 x NeurIPSw 2026
+- 1 x MIGARS 2026, CVIP 2025
 - 2 x ICAA 2025
   
 ---
@@ -83,8 +82,11 @@ Currently, I serve as an **AI Research Fellow at PRISM AI Safety** and a **Resea
 
 ## 🌐 Academic Service & Reviewing
 
-- **Peer Reviewer**: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
-- **Peer Reviewer**: IEEE ICASSP 2026 (IEEE Signal Processing Society)
+-  **Peer Reviewer**: IEEE ICASSP 2027 (IEEE Signal Processing Society)
+-  **Peer Reviewer**: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+-  **Peer Reviewer**: ICVGIP 2026, NeurIPSw (GlobalSouthAI, NEmo, TAE) 2026
+-  **Peer Reviewer**: IEEE ICASSP 2026 (IEEE Signal Processing Society)
+
 
 ---
 
@@ -105,7 +107,6 @@ Currently, I serve as an **AI Research Fellow at PRISM AI Safety** and a **Resea
 
 ## 📬 Get in Touch
 
-- 🌐 Website: [anidiptapal.github.io](https://anidiptapal.github.io/)
 - 💼 LinkedIn: [in/anidipta](https://linkedin.com/in/anidipta)
 - 📧 Email: [anidiptapal@gmail.com](mailto:anidiptapal@gmail.com)
 - 📄 Resume: [Download CV](https://anidiptapal.github.io/)
